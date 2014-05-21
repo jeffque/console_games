@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="console_games/Main.cs">
+    <Files>
+      <File FileName="console_games/Main.cs" Line="57" Column="22" />
+      <File FileName="console_games/Game.cs" Line="66" Column="4" />
+      <File FileName="console_games/Cara_coroa.cs" Line="13" Column="31" />
+      <File FileName="console_games/Par_impar.cs" Line="22" Column="24" />
+      <File FileName="console_games/Multipla_escolha.cs" Line="7" Column="3" />
+      <File FileName="console_games/Batalha.cs" Line="53" Column="79" />
+      <File FileName="console_games/Personagem.cs" Line="63" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="console_games" expanded="True">
+            <Node name="Main.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
